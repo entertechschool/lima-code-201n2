@@ -4,6 +4,11 @@
 
 Esta clase de centra en practicar con JavaScript, una introducción a los tipos de datos, condicionales y arrays. También aprenderemos sobre Git y Github a un nivel más profundo. El laboratorio requerirá la creación de un nuevo repositorio y usando el flujo de trabajo de git a un nivel básico.
 
+## Link de zoom
+
+[Link de zoom](https://us06web.zoom.us/rec/share/y_p2XTsU4K0SjML6kz4xIMP3A63VJTzaQAbSqDMSWbIFgKXrzwMYFNCwCX0Fi6UY.as2ozeUuWWSwFKEE)
+
+
 ## Descripción general
 
 - Revisión del código de la tarea de laboratorio de la clase anterior.
