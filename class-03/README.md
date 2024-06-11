@@ -4,6 +4,10 @@
 
 Esta clase es bastante conceptural. Vamos a profundizar en el **control de flujo**, **arrays**, y más acerca del **box model** en CSS y el layout básico de páginas.
 
+## Link de la grabación
+
+[Link de zoom](https://us06web.zoom.us/rec/share/c2imHW8e6wRYzOQrOoRp41737nZCwfKgdj-o4dyMf-5twT7BGE1hbPTGQBBcyk5Q.VvnvQTv0hxox5hIL?startTime=1718064426000)
+
 ## Descripción general
 
 - Revisión del código de la tarea de laboratorio anterior.
