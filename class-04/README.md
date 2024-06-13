@@ -4,6 +4,9 @@
 
 En esta clase aprenderemos sobre uno de los componentes fundamentales en JavaScript: ¡funciones! También explicaremos y demostraremos el pair programming, y la propiedad position en CSS.
 
+## Link de la grabación
+[Link de Zoom](https://us06web.zoom.us/rec/share/xPnAiV4bTIFFbOYrKk017WmBY8oWMgWPMC2ISebdf97MJuNmC8e_nWSUWfM1-G8H.7dMJn_Sq5HCdy706?startTime=1718237132000)
+
 ## Descripción general
 
 - Revisión del código de la tarea de laboratorio anterior.
