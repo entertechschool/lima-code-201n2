@@ -4,6 +4,11 @@
 
 En esta clase nos apartaremos del proyecto de cuestionario "About me". Tendrás otras dos tareas de laboratorio para entregar que te ayudarán con CSS y a aprender un nuevo flujo de trabajo de git
 
+## Link de Zoom
+[Link de zoom](https://us06web.zoom.us/rec/share/Nyq5ORCbB_oUhFBYJL8h1QbZH7MVqfKM2t2nEzGwOWR01dUTDqqYzakxK8z5LjAk.ATt6KSA267J3mRKZ)
+
+
+
 ## Descripción general
 
 - Revisión del código de la tarea de laboratorio anterior.
