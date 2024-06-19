@@ -5,7 +5,9 @@
 En esta clase nos apartaremos del proyecto de cuestionario "About me". Tendrás otras dos tareas de laboratorio para entregar que te ayudarán con CSS y a aprender un nuevo flujo de trabajo de git
 
 ## Link de Zoom
-[Link de zoom](https://us06web.zoom.us/rec/share/Nyq5ORCbB_oUhFBYJL8h1QbZH7MVqfKM2t2nEzGwOWR01dUTDqqYzakxK8z5LjAk.ATt6KSA267J3mRKZ)
+- [Ponencia: Class05 [2024-06-17]](https://us06web.zoom.us/rec/share/Nyq5ORCbB_oUhFBYJL8h1QbZH7MVqfKM2t2nEzGwOWR01dUTDqqYzakxK8z5LjAk.ATt6KSA267J3mRKZ)
+- [Taller: Class05 [2024-06-18]](https://us06web.zoom.us/rec/share/UViTwAzZIuKbNovBUnpTbs4uptAEZpqw1qcdfISVfsXjlTn0lItZloIHyYXiLwQ.U6Gh9pZ17rbBbTXA) 
+- Código de acceso: Solicitar al instructor
 
 
 
