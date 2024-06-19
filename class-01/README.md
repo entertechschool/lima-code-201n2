@@ -5,8 +5,9 @@
 ¡Bienvenido al curso Code 201! En esta clase vamos a repasar los conceptos básicos de HTML, CSS y JavaScript, además de configurar nuestros sistemas para el desarrollo web profesional.
 
 ## Link de grabación
-[Link de Zoom](https://us06web.zoom.us/rec/share/uEIKH59t58LixXhL4fL25houWTVy_176zTX_8VxxbjqpHci5Mr7L_LLzizxU_0ma.XywCtbE4ImEvODX2)
-
+- [Ponencia 2024-06-03](https://us06web.zoom.us/rec/share/uEIKH59t58LixXhL4fL25houWTVy_176zTX_8VxxbjqpHci5Mr7L_LLzizxU_0ma.XywCtbE4ImEvODX2)
+- [Taller 2024-06-04](https://us06web.zoom.us/rec/share/eTPmcx-vTEjoge9TAICuw-dBgonrCMb8tV3g8C_D94ByEBPnbCzd5rrO7W88Vocy.k5EcNWuyuQNfFA17) 
+- Código de acceso: Solicitar al instructor
 
 ## Descripción general
 
