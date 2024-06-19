@@ -6,7 +6,9 @@ Esta clase de centra en practicar con JavaScript, una introducción a los tipos 
 
 ## Link de zoom
 
-[Link de zoom](https://us06web.zoom.us/rec/share/y_p2XTsU4K0SjML6kz4xIMP3A63VJTzaQAbSqDMSWbIFgKXrzwMYFNCwCX0Fi6UY.as2ozeUuWWSwFKEE)
+- [Ponencia: Class02 [2024-06-05]](https://us06web.zoom.us/rec/share/y_p2XTsU4K0SjML6kz4xIMP3A63VJTzaQAbSqDMSWbIFgKXrzwMYFNCwCX0Fi6UY.as2ozeUuWWSwFKEE)
+- [Taller: Class02 [2024-06-06]](https://us06web.zoom.us/rec/share/fVAhamCeeihC6tizX4giahl5V7LRlbV-dL8NK1G8WwFNNJh0IFXvxa4rU6cC2w0i.r4tlDD_ZRC0J2MUN) 
+- Código de acceso: Solicitar al instructor
 
 
 ## Descripción general
