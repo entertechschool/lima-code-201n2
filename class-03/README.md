@@ -6,8 +6,9 @@ Esta clase es bastante conceptural. Vamos a profundizar en el **control de flujo
 
 ## Link de la grabación
 
-[Link de zoom](https://us06web.zoom.us/rec/share/c2imHW8e6wRYzOQrOoRp41737nZCwfKgdj-o4dyMf-5twT7BGE1hbPTGQBBcyk5Q.VvnvQTv0hxox5hIL?startTime=1718064426000)
-
+- [Ponencia: Class03 [2024-06-10]](https://us06web.zoom.us/rec/share/c2imHW8e6wRYzOQrOoRp41737nZCwfKgdj-o4dyMf-5twT7BGE1hbPTGQBBcyk5Q.VvnvQTv0hxox5hIL?startTime=1718064426000)
+- [Taller: Class03 [2024-06-11]](https://us06web.zoom.us/rec/share/0SsHyB9cFordesB-Pngw_qQssDNAD2GzYManTAb-vaU2XbkzBlLZcj7jclrItVxM.X09Stt8fQxJc_rpd) 
+- Código de acceso: Solicitar al instructor
 ## Descripción general
 
 - Revisión del código de la tarea de laboratorio anterior.
