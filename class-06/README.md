@@ -9,6 +9,11 @@
 - Introducción al nuevo proyecto y descripción del problema
 - Vista previa del laboratorio y preparación
 
+## Link de Zoom
+
+[Link de Zoom](https://us06web.zoom.us/rec/share/zrjgM59EctzEaXeZNJieZGi8jWGXRMhyachZIqf5ph8V6FUHheOxW81mTrc4Mtjv.CzuZKyqxmzOq_MF8?startTime=1718841757000)
+
+
 ## Objetivos de aprendizaje
 
 ### Los estudiantes podrán
