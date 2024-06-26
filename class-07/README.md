@@ -4,6 +4,10 @@
 
 Esta clase introduce la herencia con funciones constructoras, además de añadir otra dimensión al renderizado dinámico del DOM al crear una tabla en vez de listas de datos almacenados en arrays.
 
+## Link de Zoom
+
+[Link de Zoom](https://us06web.zoom.us/rec/share/u5QdTCBuhHnH_fqyRzmaYChkoRFxNG7mBQjqJOm3Xo7Mqd-iYyMOvW5OTPSQNJ7Y.EsTjnGlf4LWqG_HF?startTime=1719273987000)
+
 ## Descripción general
 
 - Revisión del código de la tarea de laboratorio anterior
