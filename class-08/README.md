@@ -4,6 +4,10 @@
 
 En esta clase aprenderás sobre el layout de una página utilizando CSS y HTML con un wireframe determinado. También abarcaremos un CSS layout más avanzado, Flexbox.
 
+## Link de zoom
+
+[link de zoom](https://us06web.zoom.us/rec/share/zvzzHMyZ0HCroqfsl81azni8QFwh-CbzokX9dG7lYX1sNBlFHx5lBFGia-1GnjQP.hMeuEwXUwHvM8n3H?startTime=1719446937000)
+
 ## Descripción general
 
 - Revisión del código de la tarea de laboratorio anterior
