@@ -12,6 +12,11 @@ En esta clase aprenderás acerca de los Events de JavaScript y cómo pueden dar 
   - Formularios en HTML
 - Vista previa del laboratorio y preparación
 
+## Link de Zoom
+
+[Link de Zoom](https://us06web.zoom.us/rec/share/XfeyCrlc89om4RtZQ_wzJ__sCi4aZqpr_ig-OQmy8GGbJGTh3YynWfSv5ErJWiyw.fxa6pdhed5pdC5yG)
+
+
 ## Objetivos de aprendizaje
 
 ### Los estudiantes podrán
