@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+  </head>
+  <body>
+    <main>
+      <h1>Formulario para adoptar una mascota</h1>
+      <button id="btn-test">Probando el evento click</button>
+      <!-- El method='GET' es el por defecto, este va a enviar la información
+      por la URL -->
+      <!-- method='POST' va a enviar la información por el body del request -->
+      <form action="" method="get" id="form-adopcion">
+        <!-- Vamos a dividir el formulario 2 partes
+          1: Los datos de la mascota
+          2: Los datos de la persona -->
+        <fieldset>
+          <legend>Datos de la mascota</legend>
+          <div>
+            <div>
+              <label for="nombre-mascota">Nombre de la mascota</label>
+              <input
+                id="nombre-mascota"
+                type="text"
+                placeholder="Nombre"
+                name="nombre-mascota"
+              />
+            </div>
+            <div>
+              <label for="tipo-mascota"
+                >Tipo (Ejm: Perro, Gato, Ave, etc.)</label
+              >
+              <input
+                id="tipo-mascota"
+                type="text"
+                placeholder="Tipo"
+                name="tipo-mascota"
+              />
+            </div>
+            <div>
+              <label for="raza-mascota">Raza</label>
+              <input
+                id="raza-mascota"
+                type="text"
+                placeholder="Raza"
+                name="raza"
+              />
+            </div>
+            <div>
+              <label for="edad-mascota">Edad</label>
+              <input
+                id="edad-mascota"
+                type="text"
+                placeholder="Edad"
+                name="edad-mascota"
+              />
+            </div>
+            <div>
+              <label for="genero-mascota">Genero</label>
+              <input
+                id="genero-mascota"
+                type="text"
+                placeholder="Genero"
+                name="genero-mascota"
+              />
+            </div>
+          </div>
+        </fieldset>
+        <fieldset>
+          <legend>Datos de la persona</legend>
+          <div>
+            <div>
+              <label for="nombre-persona">Nombre persona</label>
+              <input
+                type="text"
+                placeholder="nombreCliente"
+                id="nombre-persona"
+                name="nombre-persona"
+              />
+            </div>
+            <div>
+              <label for="tipo-documento">Tipo documento</label>
+              <select name="document-type" id="tipo-documento">
+                <option value="dni">DNI</option>
+                <option value="carnet de extranjeria">
+                  Carnet de Extranjeria
+                </option>
+              </select>
+              <!-- <input
+                type="text"
+                placeholder="DNI"
+                id="tipo-documento"
+                name="document-type"
+              /> -->
+            </div>
+            <div>
+              <label for="nro-documento">Nro Documento</label>
+              <input
+                type="text"
+                placeholder="Ingresar DNI"
+                id="nro-documento"
+                name="document-number"
+              />
+            </div>
+          </div>
+        </fieldset>
+        <button
+          style="
+            border: none;
+            margin-top: 20px;
+            background-color: aquamarine;
+            padding: 10px 20px;
+            border-radius: 12px;
+            font-weight: bold;
+          "
+          type="submit"
+        >
+          Enviar datos
+        </button>
+      </form>
+    </main>
+    <!-- <form action="">
+      <input type="text" placeholder="Tipo texto" />
+      <input type="email" placeholder="Tipo email" />
+      <input type="password" placeholder="Tipo password" />
+      <input type="number" max="8" placeholder="Tipo number" />
+      <input type="checkbox" placeholder="Tipo checkbox" />
+      <input type="radio" placeholder="Tipo radio" />
+      <input type="submit" />
+    </form> -->
+    <script src="./app.js"></script>
+  </body>
+</html>
