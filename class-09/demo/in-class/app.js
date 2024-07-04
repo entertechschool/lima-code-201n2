@@ -1,15 +1,15 @@
 "use strict";
 
-// // Usamos el for para poder hacer iteraciones
-// for (let i = 0; i <= 12; i++) {
-//   console.log(`============INICIO DE VUELTA ${i}=============`);
-//   // cuantas veces aparece este for: 13
-//   // este segundo for cuantas veces se hará?
-//   for (let j = 0; j <= 12; j++) {
-//     console.log(`${i} x ${j} = ${i * j}`);
-//   }
-//   console.log(`============FIN DE VUELTA ${i}============`);
-// }
+// Usamos el for para poder hacer iteraciones
+for (let i = 0; i <= 12; i++) {
+  console.log(`============INICIO DE VUELTA ${i}=============`);
+  // cuantas veces aparece este for: 13
+  // este segundo for cuantas veces se hará?
+  for (let j = 0; j <= 12; j++) {
+    console.log(`${i} x ${j} = ${i * j}`);
+  }
+  console.log(`============FIN DE VUELTA ${i}============`);
+}
 
 function DatosDeAdopcion(
   nombreMascota,

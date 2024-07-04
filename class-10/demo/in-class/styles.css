@@ -1,0 +1,32 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* section {
+  display: flex;
+  flex-direction: row-reverse;
+  flex-wrap: wrap;
+}*/
+
+section {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+}
+
+section > div {
+  /* width: 200px; */
+  height: 200px;
+  border: solid red 1px;
+}
+
+.master {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+}
+
+.child {
+  height: 40px;
+  border: solid blue;
+}
