@@ -4,6 +4,10 @@
 
 Esta clase será el inicio de un nuevo proyecto. También aprenderás un nuevo CSS Layout con flexbox.
 
+## Link de Zoom
+
+[Ponencia](https://us06web.zoom.us/rec/share/aKIQ8EFz20J2PSQUbfkLWg-EzzXmcoGePBwfKlvvQwXmkQcklc7lkRlRGj-mKA_X.OpNji-2_Q8kMmt0p )
+
 ## Descripción general
 
 - Revisión del código de la tarea de laboratorio de la clase anterior.
