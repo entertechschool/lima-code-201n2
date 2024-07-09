@@ -61,4 +61,8 @@ for (let i = 0; i < 10, i++) {}
 
 - Manejar los elemenos de forma bidireccional, es decir en grillas (cuadriculas)
 
-¿Qué es responsive design?
+¿Qué es responsive design? (diseño responsivo)
+
+- El diseño de la web se adapte a cualquier tamaño de dispositivo
+- Existen tamaños standard para poder trabajar
+- Podemos usar la herramienta de nuestra navegador para poder simular diferente tamaños
