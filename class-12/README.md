@@ -4,6 +4,10 @@
 
 En esta clase aprenderás a utilizar una librería de terceros para que puedas proporcionar una representación gráfica de los datos de clicks que se han recolectado del vote tracker.
 
+## Link de Zoom
+
+[Ponencia](https://us06web.zoom.us/rec/share/fqLXBEaZys_1Bb_h8XFbfensZRNAx1zF5XjYqDgyfTDN38n9yDmq8EFlW9LRomhi.GJt8Swc2kIHxX2qt )
+
 ## Descripción general
 
 - Revisión del código de la tarea de laboratorio de la clase anterior.
