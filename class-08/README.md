@@ -6,9 +6,8 @@ En esta clase aprenderás sobre el layout de una página utilizando CSS y HTML c
 
 ## Link de zoom
 
-[link de zoom](https://us06web.zoom.us/rec/share/zvzzHMyZ0HCroqfsl81azni8QFwh-CbzokX9dG7lYX1sNBlFHx5lBFGia-1GnjQP.hMeuEwXUwHvM8n3H?startTime=1719446937000)
-- [Ponencia: Class05 [2024-06-17]]()
-- [Taller: Class05 [2024-06-18]]() 
+- [Ponencia: Class08 [2024-06-26]](https://us06web.zoom.us/rec/share/KqfjYorg0d7QTIiKNsB4SWOeHWq3jSI_weKe5BE6-9tUwnQLoP_4n12YzkNogRVe.M4ivWoYvSC_jGfRU)
+- [Taller: Class08 [2024-06-27]](https://us06web.zoom.us/rec/share/BAlBUwaxgQ42Wz5gtclaagTzXt822QEPSt6roUetizwVf_LkuGSSLd-853XtX1TV.mIP7iekg0IY4cmK_) 
 - Código de acceso: Solicitar al instructor
 
 ## Descripción general
