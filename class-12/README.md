@@ -6,8 +6,8 @@ En esta clase aprenderás a utilizar una librería de terceros para que puedas p
 
 ## Link de Zoom
 
-- [Ponencia: Class12 [2024-06-10]](https://us06web.zoom.us/rec/share/-eS96TXI-UnRF4eqpxmz20XjMy4sKiJQgBfnS_npskil0oUlWGJazuYE7MQF0vib.TQuAToA6MYwWWha-)
-- [Taller: Class12 [2024-06-11]](https://us06web.zoom.us/rec/share/2BkI8hPWPEDvcLIfMyrVuRyTnOxjXIxhL3k00DznaW5J9XA-IhGIoQXp_h0vKWR4.hh53W5hSHHRRfKjn) 
+- [Ponencia: Class12 [2024-07-10]](https://us06web.zoom.us/rec/share/-eS96TXI-UnRF4eqpxmz20XjMy4sKiJQgBfnS_npskil0oUlWGJazuYE7MQF0vib.TQuAToA6MYwWWha-)
+- [Taller: Class12 [2024-07-11]](https://us06web.zoom.us/rec/share/2BkI8hPWPEDvcLIfMyrVuRyTnOxjXIxhL3k00DznaW5J9XA-IhGIoQXp_h0vKWR4.hh53W5hSHHRRfKjn) 
 - Código de acceso: Solicitar al instructor
 
 ## Descripción general
