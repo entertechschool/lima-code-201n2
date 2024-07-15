@@ -11,7 +11,7 @@ Aprender a **depurar** tu código te ayudará a identificar los errores que ves 
   - Flujo de trabajo de depuración
 - Vista previa del laboratorio y preparación
 
-
+## Link de Zoom
 - [Ponencia: Class10 [2024-07-03]](https://us06web.zoom.us/rec/share/BJbLUMxTcyniwFocwXRnv5e_CRF-FRFGcv4cQjP6fXR9QV4k8-Qt0MI2otus0gVV.Vr9DytqX1s3EkD7G)
 - [Taller: Class10 [2024-07-04]](https://us06web.zoom.us/rec/share/vXq1-KBCvS46afy8idXonkurT9VHBB-_two9mhx1-HOGgxag4RUjIvxQ64oT2qP_.phbRsn3LDtoBDyes) 
 - Código de acceso: Solicitar al instructor
