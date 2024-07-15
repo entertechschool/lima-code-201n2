@@ -11,10 +11,9 @@
 
 ## Link de Zoom
 
-- [Ponencia: Class05 [2024-06-17]](https://us06web.zoom.us/rec/share/zrjgM59EctzEaXeZNJieZGi8jWGXRMhyachZIqf5ph8V6FUHheOxW81mTrc4Mtjv.CzuZKyqxmzOq_MF8?startTime=1718841757000)
-- [Taller: Class05 [2024-06-18]]() 
+- [Ponencia: Class06 [2024-06-19]](https://us06web.zoom.us/rec/share/3-vkybSS-AS4eEUXhhMKf7vZI5x-1XkNq4URNK8AXK_f9BivmL1C1nI44Fmi-M9-.Uw63pgBSUvphF-f7)
+- [Taller: Class06 [2024-06-20]](https://us06web.zoom.us/rec/share/wkQFCmi04QwG1RfSd620tOm_TUeCzb04ECkI43ZEaWHVtvPqj0iPYHemHsKruPB3.JmhVQ9-46mo71vh_) 
 - Código de acceso: Solicitar al instructor
-
 
 ## Objetivos de aprendizaje
 
