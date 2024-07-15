@@ -16,8 +16,7 @@ En esta clase aprenderás acerca de los Events de JavaScript y cómo pueden dar 
 
 
 - [Ponencia: Class09 [2024-07-01]](https://us06web.zoom.us/rec/share/EYrojIX1JXjz5BU9xVGcGdLX2qmiA4bezd-JdEMU1k6VtUNFP4HsI_8TDxgn-Fhj.9j5Hiy6ykIHUYTuD)
-- [Taller: Class09 [2024-07-02]](https://us06web.zoom.us/rec/share/qNw19rFPeDkeeBNfavDtBMWqqW4itTeswpE8MbW5nQbvYSWJG1d_dCVsJybaCkQC.Y6mmZVFmww10uS05 
-Código de acceso: z=9Z2vRf) 
+- [Taller: Class09 [2024-07-02]](https://us06web.zoom.us/rec/share/qNw19rFPeDkeeBNfavDtBMWqqW4itTeswpE8MbW5nQbvYSWJG1d_dCVsJybaCkQC.Y6mmZVFmww10uS05) 
 - Código de acceso: Solicitar al instructor
 
 ## Objetivos de aprendizaje
