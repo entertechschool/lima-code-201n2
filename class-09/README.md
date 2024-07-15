@@ -14,9 +14,9 @@ En esta clase aprenderás acerca de los Events de JavaScript y cómo pueden dar 
 
 ## Link de Zoom
 
-[Link de Zoom](https://us06web.zoom.us/rec/share/XfeyCrlc89om4RtZQ_wzJ__sCi4aZqpr_ig-OQmy8GGbJGTh3YynWfSv5ErJWiyw.fxa6pdhed5pdC5yG)
-[Ponencia: Class05 [2024-06-17]]()
-- [Taller: Class05 [2024-06-18]]() 
+
+- [Ponencia: Class09 [2024-06-26]]()
+- [Taller: Class09 [2024-06-27]]() 
 - Código de acceso: Solicitar al instructor
 
 ## Objetivos de aprendizaje
