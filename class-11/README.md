@@ -7,6 +7,9 @@ Esta clase será el inicio de un nuevo proyecto. También aprenderás un nuevo C
 ## Link de Zoom
 
 [Ponencia](https://us06web.zoom.us/rec/share/aKIQ8EFz20J2PSQUbfkLWg-EzzXmcoGePBwfKlvvQwXmkQcklc7lkRlRGj-mKA_X.OpNji-2_Q8kMmt0p )
+- [Ponencia: Class05 [2024-06-17]]()
+- [Taller: Class05 [2024-06-18]]() 
+- Código de acceso: Solicitar al instructor
 
 ## Descripción general
 
