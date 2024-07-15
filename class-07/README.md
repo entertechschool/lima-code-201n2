@@ -6,9 +6,8 @@ Esta clase introduce la herencia con funciones constructoras, además de añadir
 
 ## Link de Zoom
 
-[Link de Zoom](https://us06web.zoom.us/rec/share/u5QdTCBuhHnH_fqyRzmaYChkoRFxNG7mBQjqJOm3Xo7Mqd-iYyMOvW5OTPSQNJ7Y.EsTjnGlf4LWqG_HF?startTime=1719273987000)
-- [Ponencia: Class05 [2024-06-17]]()
-- [Taller: Class05 [2024-06-18]]() 
+- [Ponencia: Class07 [2024-06-24]](https://us06web.zoom.us/rec/share/qBE8l8wKdz_BWgwFngpTjfif-uEbhswoxvXntBHizFZs3jUJqfh0lIJDoip9AFTj.3dBEYzRXVdebwzE8)
+- [Taller: Class07 [2024-06-25]](https://us06web.zoom.us/rec/share/z0GxK1uFZioxAL8h-JJ7cWCZpXvzWX0TJnUiP6hRjH7B41m3azbVvwAXdhdrxM9R.XdFodM6YRfCJqeIb) 
 - Código de acceso: Solicitar al instructor
 
 ## Descripción general
