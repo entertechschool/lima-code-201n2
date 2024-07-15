@@ -11,6 +11,11 @@ Aprender a **depurar** tu código te ayudará a identificar los errores que ves 
   - Flujo de trabajo de depuración
 - Vista previa del laboratorio y preparación
 
+
+[Ponencia: Class05 [2024-06-17]]()
+- [Taller: Class05 [2024-06-18]]() 
+- Código de acceso: Solicitar al instructor
+
 ## Objetivos de aprendizaje
 
 ### Los estudiantes podrán
