@@ -5,10 +5,8 @@
 Esta clase será el inicio de un nuevo proyecto. También aprenderás un nuevo CSS Layout con flexbox.
 
 ## Link de Zoom
-
-[Ponencia](https://us06web.zoom.us/rec/share/aKIQ8EFz20J2PSQUbfkLWg-EzzXmcoGePBwfKlvvQwXmkQcklc7lkRlRGj-mKA_X.OpNji-2_Q8kMmt0p )
-- [Ponencia: Class05 [2024-06-17]]()
-- [Taller: Class05 [2024-06-18]]() 
+- [Ponencia: Class11 [2024-07-08]](https://us06web.zoom.us/rec/share/OwlBgwCU5YLWfNbfgzsDi-MWnPfoBh34zyhV9AWem0de4qpMyLs5tLOnz6_k91-6.0NSZ1NPGx8Mw8a1A)
+- [Taller: Class11 [2024-07-09]](https://us06web.zoom.us/rec/share/ieVVX6YKzqpRb2S4b1LT_s-CNYsZ1eP7psNOwD3u3tl9FGKI9CHFLu4u19UAeYfu.b0cqC2HNdeagduhu) 
 - Código de acceso: Solicitar al instructor
 
 ## Descripción general
