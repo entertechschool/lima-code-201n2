@@ -4,6 +4,11 @@
 
 En esta clase aprenderás el concepto de estado de aplicación persistente con local storage.
 
+## Zoom
+
+- [Ponencia](https://us06web.zoom.us/rec/share/8K3w0hF6u7j_FLuWTrfbajAXlnrepBL0-ftH_OoEKGKDdwqduk8EJj3JlchV0NYo.Wc67ENv5D6efc-A2)
+- Solicitar la clave al instructor
+
 ## Descripción general
 
 - Revisión del código de la tarea de laboratorio de la clase anterior.
