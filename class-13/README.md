@@ -17,10 +17,6 @@ En esta clase aprenderás el concepto de estado de aplicación persistente con l
   - Local storage
 - Vista previa del laboratorio y preparación
 
-- [Ponencia: Class05 [2024-06-17]]()
-- [Taller: Class05 [2024-06-18]]() 
-- Código de acceso: Solicitar al instructor
-
 ## Objetivos de aprendizaje
 
 ### Los estudiantes podrán
