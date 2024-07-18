@@ -1,0 +1,97 @@
+.box {
+  width: 200px;
+  height: 200px;
+  background-color: cadetblue;
+  transform: translate(250px, 300px);
+}
+
+.circle {
+  width: 200px;
+  height: 200px;
+  background-color: purple;
+  border-radius: 50%;
+  transition: transform 1s ease-out;
+}
+
+.circle:hover {
+  transform: skew(120deg, 140deg);
+}
+
+.box2 {
+  width: 200px;
+  height: 200px;
+  background-color: darkorange;
+  /* deg = grados */
+  transform: translate(15px, 37px) rotate(120deg);
+  transition-property: transform;
+  transition-duration: 5s;
+}
+
+.box2:hover {
+  background-color: red;
+  transform: translate(50px, 100px) rotate(180deg);
+}
+
+.btn {
+  background-color: coral;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 12px;
+  color: #fff;
+  font-weight: 700;
+  cursor: pointer;
+  transition-property: transform;
+  transition-duration: 0.5s;
+  transition-timing-function: ease-out;
+}
+
+.btn:hover {
+  transform: scale(1.2);
+}
+
+.box3 {
+  width: 200px;
+  height: 200px;
+  background-color: green;
+  transition: background-color 1.5s ease-in;
+}
+
+/* @keyframes cambioDeColor {
+  0% {
+    background-color: #fa3;
+    transform: rotate(0deg);
+  }
+  50% {
+    background-color: rgb(130, 255, 130);
+    transform: rotate(180deg);
+  }
+  100% {
+    background-color: rgb(96, 96, 255);
+    text-replace: rotate(360deg);
+  }
+} */
+
+@keyframes cambioDeColor {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.circle2 {
+  width: 200px;
+  height: 200px;
+  background-color: goldenrod;
+  border-radius: 50%;
+  /* transition: transform 2s ease-in; */
+  animation-name: cambioDeColor;
+  animation-duration: 5s;
+  animation-timing-function: ease-in-out;
+  animation-iteration-count: infinite;
+}
+
+.circle2 > img {
+  border-radius: 50%;
+}

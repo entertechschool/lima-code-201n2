@@ -83,4 +83,15 @@ localStorage.getItem('my_password') // null
 
 ¿Cómo eliminar un valor de `localStorage`?
 
+```js
+localStorage.removeItem('key')
+localStorage.removeItem('my_password')
+localStorage.removeItem('numeros')
+localStorage.removeItem('persona')
+```
+
 ¿Cómo eliminar todos los valores almacenados en `localStorage`?
+
+```js
+localStorage.clear()
+```

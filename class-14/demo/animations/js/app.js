@@ -1,4 +1,4 @@
-'use strict';
+"use strict";
 
 // TODO hey, what about an array of tree objects! that would have file path for picture, and the tree info
 // TODO don't repeat the correct picture
@@ -17,18 +17,27 @@
 // update it - setItem in localStorage
 // delete it
 
-const treeNames = ['Big_Leaf_Maple', 'Douglas-fir', 'Madrona', 'Pacific_Silver_Fir', 'Ponderosa_Pine', 'Sitka_Spruce', 'Western_Hemlock', 'Western_Red_Cedar'];
-let correctTree = '';
-let wrongTree = '';
+const treeNames = [
+  "Big_Leaf_Maple",
+  "Douglas-fir",
+  "Madrona",
+  "Pacific_Silver_Fir",
+  "Ponderosa_Pine",
+  "Sitka_Spruce",
+  "Western_Hemlock",
+  "Western_Red_Cedar",
+];
+let correctTree = "";
+let wrongTree = "";
 let attempts = 0;
 const maxAttempts = 5;
-const treeNameElement = document.getElementById('treeName');
-const treeImagesParent = document.getElementById('treeImages');
-const responseElement = document.getElementById('response');
-const scoreElement = document.getElementById('score');
-const attemptsElement = document.getElementById('attempts');
+const treeNameElement = document.getElementById("treeName");
+const treeImagesParent = document.getElementById("treeImages");
+const responseElement = document.getElementById("response");
+const scoreElement = document.getElementById("score");
+const attemptsElement = document.getElementById("attempts");
 
-function setup () {
+function setup() {
   // call this with a random name
   correctTree = generateRandomTree();
   wrongTree = generateRandomTree();
@@ -47,19 +56,19 @@ function setup () {
 
 setup();
 
-treeImagesParent.addEventListener('click', function (event) {
+treeImagesParent.addEventListener("click", function (event) {
   if (attempts === maxAttempts) {
     return;
   }
 
-  const answer = event.target.getAttribute('id');
+  const answer = event.target.getAttribute("id");
   attempts++;
 
   if (answer === correctTree) {
     incrementScore();
-    renderResponse('woohoo!');
+    renderResponse("woohoo!");
   } else {
-    renderResponse('wrong! virus alert.');
+    renderResponse("wrong! virus alert.");
   }
 
   setup();
@@ -71,134 +80,138 @@ treeImagesParent.addEventListener('click', function (event) {
   }
 });
 
-function generateRandomTree () {
+function generateRandomTree() {
   const index = Math.floor(Math.random() * treeNames.length);
   return treeNames[index];
 }
 
-function updateTreeName (treeName) {
+function updateTreeName(treeName) {
   treeNameElement.textContent = treeName;
 }
 
-function renderTreeImage (treeName) {
-  const img = document.createElement('img');
-  img.setAttribute('src', 'images/' + treeName + '.jpeg');
-  img.setAttribute('id', treeName);
+function renderTreeImage(treeName) {
+  const img = document.createElement("img");
+  img.setAttribute("src", "images/" + treeName + ".jpeg");
+  img.setAttribute("id", treeName);
   treeImagesParent.append(img);
 }
 
-function renderResponse (response) {
+function renderResponse(response) {
   responseElement.textContent = response;
 }
 
-function incrementScore () {
+function incrementScore() {
   let score = getScore();
   score++;
   createOrUpdateScore(score);
   updateScoreElement();
 }
 
-function updateScoreElement () {
+function updateScoreElement() {
   scoreElement.textContent = getScore() || 0;
 }
 
-function getScore () {
-  let score = localStorage.getItem('score');
+function getScore() {
+  let score = localStorage.getItem("score");
   if (score !== null) {
     score = parseInt(score);
   }
   return score;
 }
 
-function createOrUpdateScore (value) {
+function createOrUpdateScore(value) {
   value = value.toString();
-  localStorage.setItem('score', value);
-  const score = localStorage.getItem('score');
+  localStorage.setItem("score", value);
+  const score = localStorage.getItem("score");
   return score;
 }
 
-function deleteScore () {
-  localStorage.removeItem('score');
+function deleteScore() {
+  localStorage.removeItem("score");
   return null;
 }
 
-function getTreeState () {
-  const storageTreeState = localStorage.getItem('treeState');
+function getTreeState() {
+  const storageTreeState = localStorage.getItem("treeState");
   //unstringify it
   const parsedTreeState = JSON.parse(storageTreeState);
   return parsedTreeState;
 }
 
-function createOrUpdateTreeState (correctTree, wrongTree) {
+function createOrUpdateTreeState(correctTree, wrongTree) {
   const treeState = {
     correctTree: correctTree,
-    wrongTree: wrongTree
+    wrongTree: wrongTree,
   };
   // convert to a stringified format
   const stringifiedTreeState = JSON.stringify(treeState);
-  localStorage.setItem('treeState', stringifiedTreeState);
-  const storageTreeState = localStorage.getItem('treeState');
+  localStorage.setItem("treeState", stringifiedTreeState);
+  const storageTreeState = localStorage.getItem("treeState");
   //unstringify it
   const parsedTreeState = JSON.parse(storageTreeState);
   return parsedTreeState;
 }
 
-function deleteTreeState () {
-  localStorage.removeItem('treeState');
+function deleteTreeState() {
+  localStorage.removeItem("treeState");
 }
 
-function clearAllData () {
+function clearAllData() {
   localStorage.clear();
   return null;
 }
 
-function updateAttempts () {
+function updateAttempts() {
   attemptsElement.textContent = maxAttempts - attempts;
 }
 
-function chart () {
-  const canvas = document.getElementById('chart');
-  const ctx = canvas.getContext('2d');
+function chart() {
+  const canvas = document.getElementById("chart");
+  const ctx = canvas.getContext("2d");
   const score = getScore();
 
   // modeled after the Getting Started example in the chartJS docs
   const chart = new Chart(ctx, {
     // The type of chart we want to create
-    type: 'bar',
+    type: "bar",
 
     // The data for our dataset
     data: {
-      labels: ['Score', 'Attempts'],
-      datasets: [{
-        label: 'Number of Correct Answers',
-        backgroundColor: 'rgb(255, 99, 132)',
-        borderColor: 'rgb(255, 99, 132)',
-        data: [score, maxAttempts],
-      }]
+      labels: ["Score", "Attempts"],
+      datasets: [
+        {
+          label: "Number of Correct Answers",
+          backgroundColor: "rgb(255, 99, 132)",
+          borderColor: "rgb(255, 99, 132)",
+          data: [score, maxAttempts],
+        },
+      ],
     },
 
     // Configuration options go here
     options: {
       scales: {
-        yAxes: [{
-          ticks: {
-            beginAtZero: true
-          }
-        }]
-      }
-    }
+        yAxes: [
+          {
+            ticks: {
+              beginAtZero: true,
+            },
+          },
+        ],
+      },
+    },
   });
 }
 
 function draw() {
-  const canvas = document.getElementById('chart');
-  const ctx = canvas.getContext('2d');
+  const canvas = document.getElementById("chart");
+  const ctx = canvas.getContext("2d");
 
-  ctx.fillStyle = '#26b7cf';
+  ctx.fillStyle = "#26b7cf";
   ctx.fillRect(10, 10, 20, 100);
 
-  ctx.fillStyle = '#cf2663';
+  ctx.fillStyle = "#cf2663";
   ctx.fillRect(80, 10, 20, 100);
 
-  ctx.fillText('My string', 10, 100);
+  ctx.fillText("My string", 10, 100);
 }
